@@ -165,8 +165,6 @@ platform = GameSprite("brick.jpg", 0, 400, 800, 200, 0)
 platforms.add(platform)
 platform = GameSprite("brick.jpg", 1200, 400, 800, 200, 0)
 platforms.add(platform)
-platform = GameSprite("brick.jpg", 300, 250, 100, 20, 0)
-platforms.add(platform)
 
 
 player = Player("sprite1.png", 10, 10, 100, 100, 7)
